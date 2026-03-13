@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "感情のグラビティ",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T01:57:58.389084Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "感情のグラビティ",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_感情のグラビティ_SiLENT←NOiSE.txt"
+    }
+  ]
+}
